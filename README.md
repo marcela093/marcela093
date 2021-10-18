@@ -4,6 +4,6 @@
 
 :purple_heart: I’m front-end monitor at [{reprograma}](https://reprograma.com.br/)
 
-:zap: Fun fact: I don't like coffee 
+:zap: Fun fact: I think tea is better than coffee 🤓
 
 :art: :dog: :video_game: :chocolate_bar: Lover
