@@ -7,6 +7,6 @@
 <p>✨ I love to draw flowers and butterflies</p>
 <p>✨ Fun fact: I prefer tea over coffee</p>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcela093&layout=compact&langs_count=7&theme=dracula"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcela093&layout=compact)](https://github.com/marcela093/github-readme-stats)
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcela093/)
