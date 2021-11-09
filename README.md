@@ -3,7 +3,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/52415421/137996559-08da44da-a347-4946-b12e-8c875a6af95e.jpg" height="200">
 
 <p>✨ I’m currently working as front-end developer at <a href="https://www.stone.com.br/">Stone</a></p>
-<p>✨ I’m front-end monitor at <a href="https://reprograma.com.br/">Reprograma</a></p>
+<p>✨ I’m front-end monitor at <a href="https://reprograma.com.br/">Reprograma</a> and front-end volunteer at <a href="https://www.linkedin.com/company/compiladoras/">Compiladoras de Cafeína</a></p> 
 <p>✨ I love to draw flowers and butterflies</p>
 <p>✨ Fun fact: I prefer tea over coffee</p>
 
