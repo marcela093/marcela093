@@ -5,7 +5,7 @@
 <p>✨ I’m currently working as front-end developer at <a href="https://www.stone.com.br/">Stone</a></p>
 <p>✨ I’m front-end monitor at <a href="https://reprograma.com.br/">Reprograma</a> and front-end volunteer at <a href="https://www.linkedin.com/company/compiladoras/">Compiladoras de Cafeína</a></p> 
 <p>✨ I love to draw flowers and butterflies</p>
-<p>✨ Fun fact: I prefer tea over coffee</p>
+<p>✨ Fun fact: I prefer tea to coffee</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcela093&layout=compact)](https://github.com/marcela093/github-readme-stats)
 
